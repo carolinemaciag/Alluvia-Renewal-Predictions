@@ -1,0 +1,12 @@
+{
+  "expense_created_flag": 1.0,
+  "up_for_first_renewal": 1.0,
+  "trunc_employee_age": 35.0,
+  "phone_support_flag": 0.0,
+  "trunc_current_lifetime_benefit_maximum": 25000.0,
+  "first_unlock_journey_TRY_PREGNANT": 0.0,
+  "first_unlock_journey_PREGNANT": 0.0,
+  "trunc_current_annual_benefit_maximum": 20000.0,
+  "first_unlock_journey_PRESERVATION": 0.0,
+  "first_unlock_journey_EXPLORING": 0.0
+}
